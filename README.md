@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovial20
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning language Go,ukulele...
+- 🌱 I’m currently learning language Go
 
 
 
